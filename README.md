@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anish Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋,I'm Anish </h1>
+<h3 align="center">Working on new Ideas;Explorer at Heart </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish9050&label=Profile%20views&color=0e75b6&style=flat" alt="anish9050" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **rkmvhs1344@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I think I'm adventurous.**
 
