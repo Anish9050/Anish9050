@@ -2,7 +2,10 @@
 I'm **Anish Das**, a passionate **Software Developer** currently pursuing my **B.E. in Information Technology** at **Jadavpur University**.  
 I am deeply interested in **Problem Solving**, **Web Development**, and **Artificial Intelligence / Machine Learning**.  
 
----
+
+<table>
+  <tr>
+    <td valign="top" width="70%">
 
 ### 🚀 About Me  
 🔹 I love solving challenging problems with clean and efficient solutions.  
@@ -10,9 +13,14 @@ I am deeply interested in **Problem Solving**, **Web Development**, and **Artifi
 🔹 Fascinated by **Artificial Intelligence** and **Machine Learning**.  
 🔹 My repositories consist of **lab works, practice projects, and real-world applications**.  
 
----
+</td>
+    <td valign="top" width="30%">
+      <img src=".png" alt="GitHub Stats" width="250" />
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Stats  
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anish9050&show_icons=true&theme=radical" alt="Anish's GitHub Stats" height="180"/>
