@@ -13,8 +13,10 @@ I am deeply interested in **Problem Solving**, **Web Development**, and **Artifi
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="02a28d7c-9e86-4b45-a071-0f073a07fbde.png" alt="GitHub Stats and Languages" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anish9050&show_icons=true&theme=radical" alt="Anish's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish9050&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
