@@ -1,4 +1,6 @@
-# Hi there! 👋🏼  
+# Hi there! 👋🏼 ![Profile Views](https://komarev.com/ghpvc/?username=anish9050&label=Profile%20views&color=0e75b6&style=flat)
+
+
 I'm **Anish Das**, a passionate **Software Developer** currently pursuing my **B.E. in Information Technology** at **Jadavpur University**.  
 I am deeply interested in **Problem Solving**, **Web Development**, and **Artificial Intelligence / Machine Learning**.  
 
