@@ -21,7 +21,7 @@ I am deeply interested in **Problem Solving**, **Web Development**, and **Artifi
 
 ### 🖼️ About Me in Ghibli Vibes  
 <p align="center">
-  <img src="A_traditional_anime-style_illustration_depicts_a_y.png" alt="Ghibli Style Portrait" width="350"/>
+  <img src="ghibli.png" alt="Ghibli Style Portrait" width="350"/>
 </p>
 
 ---
