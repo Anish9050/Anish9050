@@ -24,32 +24,21 @@ I am deeply interested in **Problem Solving**, **Web Development**, and **Artifi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anish9050&show_icons=true&theme=radical" alt="Anish's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish9050&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish9050&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
 
----
-
-<p align="center">
-  <img src="footballwatercolour.png" alt="Ghibli Style Portrait" width="350"/>
-</p>
-
----
 
 ### 🔗 Connect with Me  
 <p align="center">
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100095093693247" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="40"/>
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  
+  <a href="https://www.instagram.com/anish_9050/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40"/>
   </a>
-  <a href="https://youtube.com/yourchannel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40"/>
-  </a>
-  <a href="https://x.com/yourprofile" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X (Twitter)" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/anish-das50/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
   </a>
 </p>
