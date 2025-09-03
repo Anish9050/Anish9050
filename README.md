@@ -15,7 +15,7 @@ I am deeply interested in **Problem Solving**, **Web Development**, and **Artifi
 
 </td>
     <td valign="top" width="30%">
-      <img src=".png" alt="GitHub Stats" width="250" />
+      <img src="footballwatercolour.png" alt="GitHub Stats" width="250" />
     </td>
   </tr>
 </table>
